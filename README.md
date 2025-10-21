@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
+	<a href="#">
+		<img src="./PhyloBridge.png" alt="PhyloBridge Logo" width="250" />
+	</a>
+	<h1>PhyloBridge</h1>
+	<p>A novel framework for taxonomically-aware conditional protein sequence generation. This repository hosts code for training, inferencing, benchmarking, and PhyloProt dataset generation.</p>
+</div>
 
-<!--
-**PhyloBridge/PhyloBridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="100%">
+	<tr>
+		<td width="120">
+			<img src="./PhyloBridge.png" alt="ncbi-tree project logo" width="100" />
+		</td>
+		<td>
+			<h2><a href="https://github.com/PhyloBridge/ncbi-tree">ncbi-tree</a></h2>
+			<p>A free, open-source tool to convert NCBI Taxonomy to Newick Tree (.tre)</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="120">
+			<img src="./PhyloBridge.png" alt="ColorGradient project logo" width="100" />
+		</td>
+		<td>
+			<h2><a href="https://github.com/PhyloBridge/ColorGradient">ColorGradient</a></h2>
+			<p>A free, open-source tool to create pretty (row,col)-based plot with color gradients illustrating data distribution</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="120">
+			<img src="./PhyloBridge.png" alt="PhyloProt project logo" width="100" />
+		</td>
+		<td>
+			<h2>PhyloProt</h2>
+			<p>A collection of protein sequence training set sourced from UniProt-KB, partitioned into balanced clades with uniform filesize</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="120">
+			<img src="./PhyloBridge.png" alt="GetStartedTemplate project logo" width="100" />
+		</td>
+		<td>
+			<h2>GetStartedTemplate</h2>
+			<p>A collection of free, open-source templates for machine learning research, manuscript, and presentation</p>
+		</td>
+	</tr>
+</table>
