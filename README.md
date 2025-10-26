@@ -13,7 +13,7 @@
 		</td>
 		<td>
 			<h2><a href="https://github.com/PhyloBridge/ncbi-tree">ncbi-tree</a></h2>
-			<p>A free, open-source tool to convert NCBI Taxonomy to Newick Tree (.tre)</p>
+			<p>A free, open-source python library to convert NCBI Taxonomy to Newick Tree (.tre)</p>
 		</td>
 	</tr>
 	<tr>
@@ -22,7 +22,7 @@
 		</td>
 		<td>
 			<h2><a href="https://github.com/PhyloBridge/ColorGradient">ColorGradient</a></h2>
-			<p>A free, open-source tool to create pretty (row,col)-based plot with color gradients illustrating data distribution</p>
+			<p>Publication-ready visualization python library for 1D data distributions using intuitive circular color gradients</p>
 		</td>
 	</tr>
 	<tr>
